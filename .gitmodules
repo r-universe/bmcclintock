@@ -8,3 +8,8 @@
 	url = https://github.com/bmcclintock/momentuhmm
 	shallow = true
 	registered = true
+[submodule "multimark"]
+	path = multimark
+	url = https://github.com/bmcclintock/multimark
+	shallow = true
+	registered = true
