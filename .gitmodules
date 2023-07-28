@@ -1,16 +1,11 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/bmcclintock/bmcclintock.r-universe.dev
-	shallow = true
 	branch = HEAD
 [submodule "momentuHMM"]
 	path = momentuHMM
 	url = https://github.com/bmcclintock/momentuHMM
-	shallow = true
 	branch = develop
-	registered = true
 [submodule "multimark"]
 	path = multimark
 	url = https://github.com/bmcclintock/multimark
-	shallow = true
-	registered = true
